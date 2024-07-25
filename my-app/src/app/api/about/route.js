@@ -1,11 +1,3 @@
-/*
-
-export async function GET() {
-    return Response.json({ message: "About" });
-}
-
-*/
-
 // การใช้รูปแบบ searchParams
 import { NextRequest } from "next/server";
 
